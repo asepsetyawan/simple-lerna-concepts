@@ -1,7 +1,7 @@
 {
   "name": "temp-utils",
   "description": "Temperature utilities",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Naresh Bhatia",
   "license": "MIT",
   "main": "dist/index.js",
