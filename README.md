@@ -1,18 +1,19 @@
-Lerna and Yarn Workspaces Concepts
-==================================
-This is an example to demonstrate Lerna and Yarn Workspaces concepts.
+# Lerna Concepts
 
-Getting Started
----------------
+Just an example to demonstrate Lerna concepts
+
+## Getting Started
+
 ```bash
 $ yarn
 $ yarn build
 $ yarn start
 ```
 
-Testing
--------
+## Testing
+
 ```bash
 $ yarn test
 ```
+
 # simple-lerna-concepts
